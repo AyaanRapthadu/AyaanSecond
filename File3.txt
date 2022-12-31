@@ -1,1 +1,3 @@
 Added changes from GitHub in File3
+
+Thanks for making the modification from GitHub. This message is from Git.
